@@ -1,0 +1,5 @@
+While working on my project I had a struggle getting the files for me to use but figured it out,
+
+I added a new class that allows you to swap between songs in the game between 4 different songs, and it swaps over after playing through the first song when the final one finishes
+
+it works by using an array that selects which song you're using by increasing the index number and with each number being linked to a different song it plays a new one for each 4 song slots
